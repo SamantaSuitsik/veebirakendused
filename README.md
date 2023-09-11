@@ -1,2 +1,2 @@
 # veebirakendused
-Veebirakenduste loomine
+Aines veebirakenduste loomine
