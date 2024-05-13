@@ -1,0 +1,6 @@
+Team code: AR
+
+Names: Chris Matsiselts, Joonas Meister, Samanta Suitsik
+
+Link: https://github.com/G0DF2TH6R/wad_vue
+
